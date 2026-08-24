@@ -53,7 +53,7 @@ The project was built to get practical experience with **RTOS-based embedded fir
 
 For the complete FreeRTOS architecture, task design, communication methods, state logic, pin configuration, and data flow, see:
 
-**[Detailed Project README](esp32-freertos-multitask-monitor/README-9.md)**
+**[Detailed Project README](esp32-freertos-multitask-monitor/README.md)
 
 ## Project Status
 
